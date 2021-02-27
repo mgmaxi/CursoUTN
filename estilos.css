@@ -5,14 +5,14 @@ body {
 footer {
     background-color: cadetblue;
     text-align: center;
-    width: 100%;
+    width: auto;
     height: 50px;
     margin-top: 15px;
 }
 
 /* Cuadrados de Section */
 
-.cuadrado {
+section.contenedor div {
     height: 200px;
     width: 200px;
 }
